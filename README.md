@@ -1,4 +1,4 @@
-# Previsao de aluguel utilizando Regressao 
+# Previsao de aluguel utilizando Regressão 
 
 <img src="https://raw.githubusercontent.com/rgizsilva/Previsao-de-aluguel-utilizando-Regressao-Linear/main/aluuu.jpg" height="200" width="500"/>
 
